@@ -5,7 +5,6 @@ module.exports = {
     extend: {
       backgroundImage: {
    
-        
       },
       screens: {
         sm: '480px',
