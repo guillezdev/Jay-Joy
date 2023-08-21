@@ -2,6 +2,9 @@
 @tailwind components;
 @tailwind utilities;
 
+.bg-bg-banner{
+  background-image: url(/docs/assets/main-banner3.webp);
+}
 .bg-bg-banner::before {
   content: '';
   z-index: -10;

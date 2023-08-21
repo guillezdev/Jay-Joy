@@ -4,7 +4,7 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: {
-        'bg-banner': "url('/docs/assets/main-banner3.webp')",
+   
         
       },
       screens: {
