@@ -1046,6 +1046,7 @@ video {
   transition: .3s ease-in-out;
   cursor: pointer;
   box-shadow: 0px 0px 30px -10px rgba(0, 0, 0, 0.3);
+  
 }
 
 #c1 {
