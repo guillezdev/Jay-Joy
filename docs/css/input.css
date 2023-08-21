@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 .bg-bg-banner{
-  background-image: url(/docs/assets/main-banner3.webp);
+  background-image: url(../assets/main-banner3.webp);
 }
 .bg-bg-banner::before {
   content: '';
