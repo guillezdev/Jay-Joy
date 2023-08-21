@@ -1,10 +1,10 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: ["./dist/*.html"],
+  content: ["./docs/*.html"],
   theme: {
     extend: {
       backgroundImage: {
-        'bg-banner': "url('/../dist//assets/main-banner3.webp')",
+        'bg-banner': "url('/../docs//assets/main-banner3.webp')",
         
       },
       screens: {
