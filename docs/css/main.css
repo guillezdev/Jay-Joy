@@ -965,7 +965,8 @@ video {
   height: 100%;
   background-color: rgba(0, 0, 0, 0.421);
   /*Valor de la opacidad (0.7 en este caso) */
-  border-radius: 200px;
+  border-bottom-right-radius: 200px;
+  border-bottom-left-radius: 200px;
 }
 
 /*Estilos del menu-btn con animacion*/
